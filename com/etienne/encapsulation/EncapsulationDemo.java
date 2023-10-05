@@ -3,7 +3,7 @@ package com.etienne.encapsulation;
 public class EncapsulationDemo {
 
     public static void main(String[] args){
-        int i =1;
+        //int i =1;
         //int result = changeValue(i);
         //System.out.println("i is : " + result);
 
